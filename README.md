@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dominique 👋</h1>
 
 <p align="center">
-  <b>QA Tester | Manual &amp; Automation | Playwright · Selenium · Postman</b><br/>
+  <b>Software QA Engineer | Manual &amp; Automation | Playwright · Selenium · Postman</b><br/>
   5+ years testing web-based and mobile applications in an Agile/Scrum environment
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 👩🏻‍💻 About Me
 
-- 🧪 QA tester with 5+ years of experience in functional, regression, exploratory, cross-browser, cross-device, and API testing
+- 🧪 QA engineer with 5+ years of experience in functional, regression, exploratory, cross-browser, cross-device, and API testing
 - 🎓 Hands-on with web-based applications (**ecommerce, LMS**) and mobile apps (**food ordering, music streaming, mobile games**)
 - 🤖 Moving into automation: building a **Playwright + TypeScript** portfolio, with earlier Selenium (Java) experience
 - 🌱 Currently learning: page object model, fixtures, API test automation, and CI with GitHub Actions
